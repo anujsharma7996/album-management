@@ -1,0 +1,64 @@
+.album-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(206, 99, 38);
+  min-width: 50%;
+  width: auto;
+  height: 60px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.album-container p {
+  padding-left: 50px;
+  overflow: hidden;
+  max-width: 450px;
+}
+
+.album-container button {
+  margin-right: 10px;
+  background-color: transparent;
+}
+
+button {
+  border-style: none;
+  cursor: pointer;
+}
+
+img {
+  width: 24px;
+  height: auto;
+}
+
+.add-album {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.add-album input {
+  width: 400px;
+  height: 30px;
+}
+
+.add-album button {
+  padding: 10px;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  width: 400px;
+}
+
+.button-container button {
+  background-color: white;
+  border-radius: 5%;
+  padding: 7px;
+}

@@ -15,7 +15,7 @@ $$ How to use?
 3. To delete an album, simply click on the delete button.
 
 ## Folder Structure
-![Folder Structure](./src/foldertructure.JPG)
+![Folder Structure](/src/folderstructure.JPG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

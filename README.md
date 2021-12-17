@@ -1,3 +1,21 @@
+Album Management Application
+(https://anujsharma7996.github.io/album-management/)
+
+Tools Used:
+- ReactJs
+
+## Features
+1. Easy to manage album application.
+2. User feedback for all user events.
+3. Use of functional components.
+
+$$ How to use?
+1. To add an album, input the title at the top and click on 'Add', the album will be added at the bottom of the list.
+2. To edit an album, click on the edit button and input the new title and click 'save' or 'discard'.
+3. To delete an album, simply click on the delete button.
+
+## Folder Structure
+![Folder Structure](./src/foldertructure.JPG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
